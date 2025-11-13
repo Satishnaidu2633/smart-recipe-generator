@@ -3,7 +3,7 @@
 The Smart Recipe Generator is an AI-assisted recipe recommendation system built using Streamlit.
 Users can provide ingredients through text or image upload, and the system generates recipes using a combination of rule-based matching and AI-powered fallback generation.
 
-🚀 Features
+### 🚀 Features
 🔍 Ingredient Input
 
 Text Input – Enter ingredients comma-separated
@@ -24,7 +24,7 @@ Ingredients
 
 Nutrition details (Calories, Protein, Fat, Carbs)
 
-✨ Additional Features
+### ✨ Additional Features
 
 Streaming typing effect for instructions
 
@@ -57,7 +57,7 @@ source .venv/bin/activate     # Linux/Mac
 .venv\Scripts\activate        # Windows
 
 3️⃣ Install dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ▶️ Running the App
 
