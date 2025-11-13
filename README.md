@@ -54,17 +54,20 @@ git clone https://github.com/your-username/smart-recipe-generator.git
 cd smart-recipe-generator`
 
 2️⃣ Create & activate virtual environment (optional)
+
 `
 python -m venv .venv
 source .venv/bin/activate     # Linux/Mac
 .venv\Scripts\activate        # Windows`
 
 3️⃣ Install dependencies
+
 `
 pip install -r requirements.txt`
 
 ▶️ Running the App
 Start the Streamlit app:
+
 `
 streamlit run app.py`
 
