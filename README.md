@@ -37,14 +37,14 @@ Cooking time filter
 Clean and responsive UI
 
 ### 📁 Project Structure
-`Smart-Recipe-Generator/
+Smart-Recipe-Generator/
 │── app.py
 │── recipes.py
 │── requirements.txt
 │
 └── utils/
     ├── ingredient_recognition.py
-    ├── llm_recipe_generator.py`
+    ├── llm_recipe_generator.py
 
 ### 🔧 Installation
 1️⃣ Clone the repository
@@ -57,7 +57,9 @@ cd smart-recipe-generator`
 
 `
 python -m venv .venv
-source .venv/bin/activate     # Linux/Mac
+source .venv/bin/activate     # Linux/Mac`
+
+`
 .venv\Scripts\activate        # Windows`
 
 3️⃣ Install dependencies
@@ -104,4 +106,4 @@ This project is open-source under the MIT License.
 
 ### 👨‍🍳 Developed By
 
-Satish Naidu
+Vulli Satish Naidu
