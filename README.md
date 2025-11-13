@@ -57,10 +57,9 @@ cd smart-recipe-generator`
 
 `
 python -m venv .venv
-source .venv/bin/activate     # Linux/Mac`
 
 `
-.venv\Scripts\activate        # Windows`
+.venv\Scripts\activate`
 
 3️⃣ Install dependencies
 
@@ -89,11 +88,7 @@ Uses an open-source LLM to generate fully structured recipes with nutritional da
 
 ➤ Image Ingredient Recognition
 
-(If enabled) Detects ingredients from photos using a lightweight computer vision model.
-
-### 🌟 Screenshots (Optional)
-
-Add your app screenshots here
+Detects ingredients from photos using a lightweight computer vision model.
 
 ### 🤝 Contributing
 
