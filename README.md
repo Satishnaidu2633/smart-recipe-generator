@@ -37,8 +37,8 @@ Cooking time filter
 Clean and responsive UI
 
 ### 📁 Project Structure
-Smart-Recipe-Generator
-/
+Smart-Recipe-Generator/
+`
 │── app.py
 
 │── recipes.py
@@ -46,11 +46,12 @@ Smart-Recipe-Generator
 │── requirements.txt
 
 │
-└── utils
-/
+└── utils/
+
     ├── ingredient_recognition.py
     
-    ├── llm_recipe_generator.py
+    ├── llm_recipe_generator.py`
+    
 
 ### 🔧 Installation
 1️⃣ Clone the repository
