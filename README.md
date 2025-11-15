@@ -39,11 +39,16 @@ Clean and responsive UI
 ### 📁 Project Structure
 Smart-Recipe-Generator/
 │── app.py
+
 │── recipes.py
+
 │── requirements.txt
+
 │
 └── utils/
+
     ├── ingredient_recognition.py
+    
     ├── llm_recipe_generator.py
 
 ### 🔧 Installation
